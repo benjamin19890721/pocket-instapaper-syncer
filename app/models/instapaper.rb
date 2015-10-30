@@ -1,0 +1,2 @@
+class Instapaper < ReadItLaterService
+end
